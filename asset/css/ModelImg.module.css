@@ -1,0 +1,28 @@
+.modelAfter {
+  width: 280px;
+  height: 340px;
+  background-image: url("../glassesImage/model.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: absolute;
+  top: 15%;
+  left: 20%;
+}
+
+.modelBefore {
+  width: 280px;
+  height: 340px;
+  background-image: url("../glassesImage/model.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: absolute;
+  top: 15%;
+  right: 20%;
+}
+
+#putGlasses {
+  position: absolute;
+  top: 25%;
+  right: 20%;
+  left: 20%;
+}/*# sourceMappingURL=ModelImg.module.css.map */
