@@ -1,0 +1,30 @@
+img {
+    width: 100%;
+}
+
+.modelAfter,
+.modelBefore {
+    position: relative;
+    width: 15%;
+}
+.putGlasses {
+    position: absolute;
+    top: 26%;
+    left: 21%;
+    right: 21%;
+}
+.descGlasses {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: rgba($color: #ff6500, $alpha: 0.4);
+    h2 {
+        font-size: 18px;
+        color: blue;
+    }
+    p {
+        font-size: smaller;
+        color: white;
+    }
+}

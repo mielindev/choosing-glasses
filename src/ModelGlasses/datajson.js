@@ -1,4 +1,4 @@
-export let glassesList = [
+export let data = [
   {
     id: 1,
     price: 30,

@@ -1,6 +1,5 @@
 import React from "react";
-import ModelImg from "../ModelImg/ModelImg";
-import GlassesImg from "../GlassesImg/GlassesImg";
+import ModelGlasses from "../ModelGlasses/ModelGlasses";
 
 export default function Body() {
   return (
@@ -13,11 +12,9 @@ export default function Body() {
         width: "100%",
         height: "100vh",
         backgroundPosition: "center",
-        backgroundRepeat: "no-repeat",
       }}
     >
-      <ModelImg />
-      <GlassesImg />
+      <ModelGlasses />
     </div>
   );
 }
