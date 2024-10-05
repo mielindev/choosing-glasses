@@ -10,8 +10,8 @@ export default function Body() {
           "https://mdbootstrap.com/img/Photos/Others/images/76.jpg"
         )`,
         width: "100%",
-        height: "100vh",
-        backgroundPosition: "center",
+        height: "110vh",
+        backgroundPosition: "center right",
       }}
     >
       <ModelGlasses />
